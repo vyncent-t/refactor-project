@@ -7,3 +7,5 @@ FIXES LIST
 - Added a header element for better structure
 - Added an id to repair the link functional for search engine optimization section
 - Added sectional semantic tags for better structure
+- Added footer semantic tags for better structure and assigned class
+- Added aside semantic tags for better structure
