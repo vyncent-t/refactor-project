@@ -13,3 +13,5 @@ FIXES LIST
 - Moved aside tag and content to proper placement
 - Added content class to each correct content element
 - Fixed semantic tags being assigned classes
+- Added figure semantic tag to the main image
+- Added nav semantic tag to the nav links
