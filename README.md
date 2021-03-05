@@ -11,4 +11,5 @@ FIXES LIST
 - Added aside semantic tags for better structure
 - Added alt captions for major image content
 - Moved aside tag and content to proper placement
-- Added content class to each section element
+- Added content class to each correct content element
+- Fixed semantic tags being assigned classes
