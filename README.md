@@ -10,3 +10,5 @@ FIXES LIST
 - Added footer semantic tags for better structure and assigned class
 - Added aside semantic tags for better structure
 - Added alt captions for major image content
+- Moved aside tag and content to proper placement
+- Added content class to each section element
