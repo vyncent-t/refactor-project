@@ -9,3 +9,4 @@ FIXES LIST
 - Added sectional semantic tags for better structure
 - Added footer semantic tags for better structure and assigned class
 - Added aside semantic tags for better structure
+- Added alt captions for major image content
