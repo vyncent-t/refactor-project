@@ -1,5 +1,5 @@
 # refactor-project
-Best practices for accessibility and page refactoring.
+This is a project in order to better polish skills for best practices for accessibility and page refactoring.
 
 FIXES LIST
 - Changed the title tag for webpage to company name
