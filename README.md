@@ -15,3 +15,6 @@ FIXES LIST
 - Fixed semantic tags being assigned classes
 - Added figure semantic tag to the main image
 - Added nav semantic tag to the nav links
+- Combining the benefit text classes into one class on stylesheet
+- Combining the benefit placment classes into one class on stylesheet
+- Combining the benefits image classes into one on stylsheet
