@@ -18,3 +18,7 @@ FIXES LIST
 - Combining the benefit text classes into one class on stylesheet
 - Combining the benefit placment classes into one class on stylesheet
 - Combining the benefits image classes into one on stylsheet
+- Combining text styles for section pages
+- Combining image styles for section pages
+- Organizing the header styles on style sheet
+- Organizing header html placement
