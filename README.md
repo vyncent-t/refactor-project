@@ -1,6 +1,7 @@
 # refactor-project
 This is a project in order to better polish skills for best practices for accessibility and page refactoring.
-![screenshot](Refactor-project/assets/images/readmescrenshot.jpg)
+
+<img src="Refactor-project/assets/images/readmescreenshot.jpg">
 
 FIXES LIST
 - Changed the title tag for webpage to company name
