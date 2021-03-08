@@ -1,6 +1,7 @@
 # refactor-project
-This is a project in order to better polish skills for best practices for accessibility and page refactoring.
+This is a project in order to better polish skills for best practices for accessibility while page refactoring. Throughout this project I organized the HTML and CSS stylesheet using basic semantic structuring.  
 
+Below is the screenshot image of the finished webpage.
 <img src="Refactor-project/assets/images/readmescreenshot.jpg">
 
 FIXES LIST
